@@ -40,6 +40,7 @@
       src="https://img.shields.io/badge/prunsoli11@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 <h3 align="center">📖Recent Blog Posts 📖</h3>
+</div>
 <!-- BLOG-POST-LIST:START -->
 - [RxSwift 2 : More about Disposing](https://velog.io/@dogyungkim/RxSwift-2-More-about-Disposing)
 - [RxSwift 1-1 : Hot and Cold Observable](https://velog.io/@dogyungkim/RxSwift-1-1-Hot-and-Cold-Observable)
@@ -47,7 +48,6 @@
 - [RxSwift 1 : Observable aka Sequence](https://velog.io/@dogyungkim/RxSwift-1-Observable-aka-Sequence)
 - [0. Introduction to RXSwift](https://velog.io/@dogyungkim/0.-Introduction-to-RXSwift)
 <!-- BLOG-POST-LIST:END -->
-</div>
 
 
 

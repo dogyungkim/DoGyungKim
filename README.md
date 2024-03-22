@@ -8,3 +8,6 @@ Doing my best to be powerful iOS developer!
 
 📃 Blog : https://velog.io/@dogyungkim
 
+### My Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

@@ -40,7 +40,6 @@
       src="https://img.shields.io/badge/prunsoli11@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 <h3 align="center">📖Recent Blog Posts 📖</h3>
->>>>>>> Stashed changes
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>

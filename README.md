@@ -44,11 +44,11 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [RxSwift 1-2 : More about Observable](https://velog.io/@dogyungkim/RxSwift-1-2-More-about-Observable)
 - [RxSwift 2 : More about Disposing](https://velog.io/@dogyungkim/RxSwift-2-More-about-Disposing)
 - [RxSwift 1-1 : Hot and Cold Observable](https://velog.io/@dogyungkim/RxSwift-1-1-Hot-and-Cold-Observable)
 - [용지버스 개선기 1&rpar; Enum 활용하기](https://velog.io/@dogyungkim/%EC%9A%A9%EC%A7%80%EB%B2%84%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-1-Enum-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [RxSwift 1 : Observable aka Sequence](https://velog.io/@dogyungkim/RxSwift-1-Observable-aka-Sequence)
-- [0. Introduction to RXSwift](https://velog.io/@dogyungkim/0.-Introduction-to-RXSwift)
 <!-- BLOG-POST-LIST:END -->
 
 

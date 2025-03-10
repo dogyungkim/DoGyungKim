@@ -57,5 +57,10 @@
   </a>
 </div>
 <h3 align="center">📖Recent Blog Posts 📖</h3>
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [@RestClientTest와 싸워 이김](https://velog.io/@dogyungkim/RestClientTest%EC%99%80-%EC%8B%B8%EC%9B%8C-%EC%9D%B4%EA%B9%80)
+- [@Value 어노테이션 실행 시점?](https://velog.io/@dogyungkim/Value-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%96%89-%EC%8B%9C%EC%A0%90)
+- [RxSwift 1-2 : More about Observable](https://velog.io/@dogyungkim/RxSwift-1-2-More-about-Observable)
+- [RxSwift 2 : More about Disposing](https://velog.io/@dogyungkim/RxSwift-2-More-about-Disposing)
+- [RxSwift 1-1 : Hot and Cold Observable](https://velog.io/@dogyungkim/RxSwift-1-1-Hot-and-Cold-Observable)
 <!-- BLOG-POST-LIST:END -->

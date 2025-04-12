@@ -58,9 +58,9 @@
 </div>
 <h3 align="center">📖Recent Blog Posts 📖</h3>
 <!-- BLOG-POST-LIST:START -->
+- [테스트 코드 작성하기: Domain부터 Controller까지 &lpar;테스트의 첫걸음&rpar;](https://velog.io/@dogyungkim/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-Domain%EB%B6%80%ED%84%B0-Controller%EA%B9%8C%EC%A7%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C)
 - [@RestClientTest와 싸워 이김](https://velog.io/@dogyungkim/RestClientTest%EC%99%80-%EC%8B%B8%EC%9B%8C-%EC%9D%B4%EA%B9%80)
 - [@Value 어노테이션 실행 시점?](https://velog.io/@dogyungkim/Value-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%96%89-%EC%8B%9C%EC%A0%90)
 - [RxSwift 1-2 : More about Observable](https://velog.io/@dogyungkim/RxSwift-1-2-More-about-Observable)
 - [RxSwift 2 : More about Disposing](https://velog.io/@dogyungkim/RxSwift-2-More-about-Disposing)
-- [RxSwift 1-1 : Hot and Cold Observable](https://velog.io/@dogyungkim/RxSwift-1-1-Hot-and-Cold-Observable)
 <!-- BLOG-POST-LIST:END -->
